@@ -25,7 +25,7 @@ void rand_num(int start, int end) {
     for (int i = start; i < end; i++) {
         num[i] = rand() % RANGE + 1;
     }
-}
+}// fdfsdfsdf
 
 void total(int start, int end) {
     unsigned long long int local_sum = 0;
